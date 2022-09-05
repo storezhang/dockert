@@ -4,6 +4,8 @@
 [![Golang质量](https://goreportcard.com/badge/github.com/pangum/pangu)](https://goreportcard.com/report/github.com/pangum/pangu)
 ![版本](https://img.shields.io/github/go-mod/go-version/pangum/pangu)
 ![仓库大小](https://img.shields.io/github/repo-size/pangum/pangu)
+![Docker镜像版本](https://img.shields.io/docker/v/storezhang/ddns)
+![Docker镜像大小](https://img.shields.io/docker/image-size/storezhang/ddns)
 ![最后提交](https://img.shields.io/github/last-commit/pangum/pangu)
 ![授权协议](https://img.shields.io/github/license/pangum/pangu)
 ![语言个数](https://img.shields.io/github/languages/count/pangum/pangu)
